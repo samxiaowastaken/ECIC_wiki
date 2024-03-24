@@ -1,8 +1,8 @@
 ---
 title: 关于
-description: 
+description: 有关ECIC.space的初心、定义和运行
 published: true
-date: 2024-03-24T08:06:54.634Z
+date: 2024-03-24T09:50:10.515Z
 tags: 政策文件
 editor: markdown
 dateCreated: 2024-03-23T09:37:47.596Z
