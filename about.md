@@ -2,7 +2,7 @@
 title: 关于
 description: 
 published: false
-date: 2024-03-24T00:33:49.521Z
+date: 2024-03-24T01:10:04.943Z
 tags: 政策文件
 editor: markdown
 dateCreated: 2024-03-23T09:37:47.596Z
@@ -10,8 +10,8 @@ dateCreated: 2024-03-23T09:37:47.596Z
 
 # 关于
 > 以下文件是ECIC.space的基本方针文件。
-> 基本方针文件规定了ECIC.space的性质及运行规则的根本性文件；
-> 用户应遵循该页面所述内容；
+> 基本方针文件规定了ECIC.space的性质及运行规则的根本性文件。
+> 用户应遵循该页面所述内容。
 {.is-info}
 <!-- 基于最终决定权或征询社群意见后修改。-->
 
@@ -35,3 +35,10 @@ dateCreated: 2024-03-23T09:37:47.596Z
 - 社区的内容及社群维护由**超级管理员**、**普通管理员**负责。
 
 ## 平台组成和运行
+
+- [ECIC主页](https://ecic.space/)，即ECIC.space主页，负责信息发布以及整合；
+- [ECIC StudySpace](https://discord.com/invite/r5K9H97pQq)，即ECIC学习社区，负责为同学提供实时交流平台；
+- [ECIC百科](https://wiki.ecic.space/)，即ECIC wiki，负责公布方针文件，并整合归档经验等内容。
+
+未在列表中的项目则代表其仍处于测试或未正式启用阶段。
+查看所有项目的在线状态，请前往[UptimeRobot](https://stats.uptimerobot.com/x4zKwImyrN)界面。
